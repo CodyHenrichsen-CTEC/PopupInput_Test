@@ -6,6 +6,7 @@ public class PopupController
 {
 	private PopupDisplay myPopups;
 	private Thingy myTestThing;
+	private int IMadeAChange;
 	
 	public PopupController()
 	{
